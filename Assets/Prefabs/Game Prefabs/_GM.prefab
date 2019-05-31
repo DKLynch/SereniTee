@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7245266854339903953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7245266854339903952}
+  - component: {fileID: 7245266854339903955}
+  - component: {fileID: 7245266854339903954}
+  - component: {fileID: 7245266854339903957}
+  - component: {fileID: 7245266854339903956}
+  - component: {fileID: 7245266854339903959}
+  - component: {fileID: 4088622075483197043}
+  m_Layer: 0
+  m_Name: _GM
+  m_TagString: GameMaster
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7245266854339903952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7245266854339903955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e78cd8de753d49349866d2d5343e3282, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 7507472798342596041, guid: 96dfd2a29c4fa8045bfed76dfcfdbb32, type: 3}
+  - {fileID: 5442316592596146708, guid: 188ef0524edb49744a3ca72fe94fb559, type: 3}
+  - {fileID: 3040172329994378597, guid: ec48aa0de33864f4485f3a0c30b210fc, type: 3}
+  - {fileID: 9112268282955734018, guid: 2e7450e7b8074154d83733180b4bd6b0, type: 3}
+  - {fileID: 4622047466941495341, guid: 66b1c8b54cddcbf4db0ceab656e7bb5c, type: 3}
+  - {fileID: 4656374292295564873, guid: f47f98aab069f694f8c513b333a37c4d, type: 3}
+  - {fileID: 8313747272476048623, guid: 6943db1f236efd645a4923cc0e348a6c, type: 3}
+  - {fileID: 8388462191497919169, guid: 5e3955f7413d28e4689ec095bc9933c8, type: 3}
+  - {fileID: 714634059421258237, guid: dead5b63408d8ce4faa5c2eb5ca2b654, type: 3}
+  - {fileID: 835961391917826051, guid: db19b0e657c74c54080659f093164eac, type: 3}
+  - {fileID: 152383195143646442, guid: 0dfa50c2d7d238542b63e445b2656209, type: 3}
+  - {fileID: 4960918037919544714, guid: 7ad3eb7c798234b40951909d2e1c99e9, type: 3}
+  - {fileID: 6544225582834499117, guid: bc206105ed7be9e4aa1f2efbefd8856c, type: 3}
+  - {fileID: 8650846549640505099, guid: 5592484b9ad287c4599d788899bfab86, type: 3}
+  - {fileID: 9146577419051212936, guid: c22ff704b7dad3247b2b1910baddbcdf, type: 3}
+  - {fileID: 2698237912984571562, guid: af7455aaf7a054c4ba6124beec3f2dc9, type: 3}
+  - {fileID: 3812238284847968152, guid: 02a9db47a35bc6d429d44f571e689b7c, type: 3}
+  - {fileID: 5768815436507156244, guid: f61366361167bd24f8085bc6ef9b10b6, type: 3}
+  - {fileID: 9151290724812793698, guid: e458a812a318b264f9ae5c6c4771dd12, type: 3}
+  - {fileID: 1611474168721859751, guid: fee72fd91dc60014f95f237af0b9646e, type: 3}
+  - {fileID: 3406911609579586566, guid: 7371c6c19300ab643a49ed0175afafc6, type: 3}
+  - {fileID: 8132705765286450377, guid: 5457dae68fb271249acb8d5e7e094319, type: 3}
+  - {fileID: 6177018731252328420, guid: efc5736166731524bada32170cb3507d, type: 3}
+  - {fileID: 978091492420117921, guid: 21f016950dad85149a812f98818cdf13, type: 3}
+  - {fileID: 4520148431319218940, guid: 25a2da705cdf02d47a93983c7d730d3d, type: 3}
+  - {fileID: 8196279237310413530, guid: 48e3a11aa6d38304e9acb170305ddb35, type: 3}
+  - {fileID: 3549691055313139517, guid: 7c970ec53140e92418a6ca7b8a4a4da7, type: 3}
+  - {fileID: 7429311367177419478, guid: 535827f780ddc0048a91dd2a3fe0ee73, type: 3}
+  - {fileID: 5274567353182942355, guid: c89ec7df88d966443a0f53b897260061, type: 3}
+  holeTiles:
+  - {fileID: 2139168894216185755, guid: 988e4459279958e4ea054090f7aae045, type: 3}
+  - {fileID: 4157728044356471138, guid: a98238d649d3de642a74e0f0a7d8b8cf, type: 3}
+  - {fileID: 4162943525337480404, guid: 35b636fc539ea9944acb90a81e630ef1, type: 3}
+  - {fileID: 1857903111955343727, guid: 5b0b4006c3cde0e4cb2e40f665cfde72, type: 3}
+  tee: {fileID: 5500402719371231705, guid: 557a017331273494ca212faade7ea7fd, type: 3}
+  weightedTiles: []
+  weightedHoleTiles: []
+  tilePositions: []
+--- !u!114 &7245266854339903954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66065f32c135f1d4aa3507169fa683bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7245266854339903957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e01069e47ee944d9e1f684b0570839, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultWalls: {fileID: 2100000, guid: 5b5d86d84354645479da88dffb6eabf7, type: 2}
+  defaultFloors: {fileID: 2100000, guid: ad31fc14c05fea443ac42821374c50e4, type: 2}
+  fallbackMat: {fileID: 2100000, guid: 5b5d86d84354645479da88dffb6eabf7, type: 2}
+  transparentMat: {fileID: 2100000, guid: d905b551b954f814ba94cafe2635363a, type: 2}
+  defaultPhysWalls: {fileID: 13400000, guid: 94f4f73985e80d24bac681bd7b8df880, type: 2}
+  defaultPhysFloors: {fileID: 13400000, guid: d362906023b594942b8d74577ebd1356, type: 2}
+  xRayEnabled: 0
+  xRayChanging: 0
+--- !u!114 &7245266854339903956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f390890d41e36f24da763945e6ce5bcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allInputLocked: 0
+  camInputLocked: 0
+--- !u!114 &7245266854339903959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564494614f28c114ba262a2df0db1580, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameDataPrefab: {fileID: 954885071010392154, guid: ee588d0fb16be124ab7c841e7ea8b7f5,
+    type: 3}
+  holeResultText: {fileID: 0}
+  holeNoText: {fileID: 0}
+  holeParText: {fileID: 0}
+  holeStrokesText: {fileID: 0}
+  sBoard9: {fileID: 0}
+  sBoard18: {fileID: 0}
+  gameUIElements:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sBoardImage: {fileID: 0}
+  holeIcon: {fileID: 0}
+--- !u!114 &4088622075483197043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245266854339903953}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9833c86f12968439e2ea48b702bb29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  themes:
+  - TropicalDay
+  - TropicalNight
+  - MarsDay
+  - MarsNight
+  - DesertNight
+  - Space

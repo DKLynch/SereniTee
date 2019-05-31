@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameMaster
+  - TilePool
+  - TileProp
+  - HoleContainer
+  - CamTarget
+  - Hole
+  - PropPool
+  - ShotPlane
+  - Ball
+  - BallExtras
+  - BallSpawn
+  - GameplayObject
+  - MiscPool
+  - GameData
+  - Environment
+  - MainCanvas
+  - EnvironmentContainer
+  - HoleFloor
+  - HoleWalls
+  - DeathPlane
+  - Car
+  - 9HoleScoreboard
+  - 18HoleScoreboard
+  - ParTotalText
+  - ScoreTotalText
+  - TotalsLabel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ball
+  - Hole
+  - Environment
+  - LightBoost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 3807263679
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
