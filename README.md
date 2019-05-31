@@ -1,6 +1,8 @@
 # SereniTee
 ## What is SereniTee?
-SereniTee is a relaxing, low poly take on procedurally generated mini golf across ever-expanding vibrant, spiritful backdrops.
+SereniTee is a relaxing, low poly take on procedurally generated mini golf across ever-expanding vibrant, spiritful backdrops. 
+
+SereniTee is an entirely solo project I've worked on over the past couple of months and I'm happy to finally have something presentable and almost in a fully-releasable state.
 
 ![MarsDay](Images/MarsDay.gif)
 
